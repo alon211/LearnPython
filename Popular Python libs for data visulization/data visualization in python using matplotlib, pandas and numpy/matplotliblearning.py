@@ -1,6 +1,6 @@
 import matplotlib.pyplot as pt
 import pandas as pd
-#防止中文乱码
+#防止中文乱码。。。
 from pylab import *
 mpl.rcParams['font.sans-serif'] = ['SimHei']
 x=[1,3,4,5,6,7]
